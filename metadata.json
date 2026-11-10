@@ -1,0 +1,6 @@
+{
+  "name": "DataSentry AI",
+  "description": "AI-Powered Enterprise Data Intelligence & Root Cause Analysis Platform with IBM Db2 and Google Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,45 @@
+{
+  "project_name": "DataSentry AI",
+  "tagline": "AI-Powered Enterprise Data Intelligence & Root Cause Analysis Platform with IBM Db2 and Google Gemini",
+  "category": "Enterprise AI & Database Management",
+  "hackathon": "IBM Db2 TechX Summit 2026",
+  "technologies": [
+    "IBM Db2",
+    "Google Gemini API",
+    "LangChain.js",
+    "React",
+    "Jetpack Compose",
+    "Kotlin",
+    "TypeScript",
+    "Node.js",
+    "Room Database",
+    "Tailwind CSS"
+  ],
+  "features": [
+    "Real-time IBM Db2 schema inspection and DDL generation across 7 core relational tables",
+    "Automated data profiling for completeness, duplicates, format anomalies, and statistical outliers",
+    "Transparent 0-100 data quality score engine with clear distinction of facts vs AI hypotheses",
+    "AI Root Cause Investigator delivering diagnostic etiology, business impact, and remediation SQL",
+    "LangChain conversational Copilot executing 6 distinct Db2-backed tool-calling agents",
+    "Enterprise SQL Inspector & Query Audit log tracking latency and returned row telemetry",
+    "Dual-mode architecture supporting live SSL Db2 connection and labeled synthetic Demo Mode",
+    "Native IBM Db2 Vector Search (VECTOR_DISTANCE) with indexed relational search fallback"
+  ],
+  "db2_tables": [
+    "DATASENTRY.DATASETS",
+    "DATASENTRY.DATA_ROWS",
+    "DATASENTRY.QUALITY_RUNS",
+    "DATASENTRY.QUALITY_ISSUES",
+    "DATASENTRY.AI_REPORTS",
+    "DATASENTRY.CHAT_HISTORY",
+    "DATASENTRY.QUERY_AUDIT"
+  ],
+  "langchain_tools": [
+    "Schema Inspector",
+    "Data Profiler",
+    "SQL Assistant",
+    "Root Cause Investigator",
+    "Recommendation Engine",
+    "Report Generator"
+  ]
+}
